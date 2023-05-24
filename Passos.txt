@@ -1,0 +1,8 @@
+ionic start AtividadeMaps blank --type=angular
+
+npm i @capacitor/google-maps 
+npm i @capacitor/geolocation 
+
+Environment
+masKey
+
